@@ -1,4 +1,4 @@
-#### Olá, tudo bem? Eu sou Marco Braga
+#### Olá, tudo bem? Eu sou Marco Braga. Sou estudante de Engenharia da Computação
 
 <div align="center">
   <a href="https://github.com/mBraga28">
